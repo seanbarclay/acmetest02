@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/sean.barclay/DEV/CLAUDE_CODE/BYO_COMPETITIVE_RESEARCH_AGENT/CLAUDE_CODE/.claude/skills/competitive-research /Users/sean.barclay/DEV/CLAUDE_CODE/BYO_COMPETITIVE_RESEARCH_AGENT/CLAUDE_CODE/.claude/agents /Users/sean.barclay/DEV/CLAUDE_CODE/BYO_COMPETITIVE_RESEARCH_AGENT/CLAUDE_CODE/reports)"
+    ]
+  }
+}
